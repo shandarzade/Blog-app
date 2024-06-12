@@ -1,2 +1,3 @@
 # Blog-app
-This is an blog writing application 
+This is an Blog app application 
+
